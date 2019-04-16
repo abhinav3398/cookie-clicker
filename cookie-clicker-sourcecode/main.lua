@@ -1,7 +1,7 @@
 --[[
     cookie clicker
-    author: abhinav
-    akshu3398@gmail.com
+    author: abhinav lakhani
+    3398abhinav@gmail.com
 ]]
 
 local cookieTexture = love.graphics.newImage('graphics/cookie.png')
